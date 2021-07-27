@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.petinfo {
+  font-size: large;
+}
+
+.control-label {
+  display: flex;
+}
