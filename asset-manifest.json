@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/PetAdoptionMERN/static/css/main.a0275e6e.chunk.css",
+    "main.js": "/github.io/PetAdoptionMERN/static/js/main.e108734d.chunk.js",
+    "main.js.map": "/github.io/PetAdoptionMERN/static/js/main.e108734d.chunk.js.map",
+    "runtime-main.js": "/github.io/PetAdoptionMERN/static/js/runtime-main.73c7f9b0.js",
+    "runtime-main.js.map": "/github.io/PetAdoptionMERN/static/js/runtime-main.73c7f9b0.js.map",
+    "static/js/2.874b91df.chunk.js": "/github.io/PetAdoptionMERN/static/js/2.874b91df.chunk.js",
+    "static/js/2.874b91df.chunk.js.map": "/github.io/PetAdoptionMERN/static/js/2.874b91df.chunk.js.map",
+    "static/js/3.478c6b4a.chunk.js": "/github.io/PetAdoptionMERN/static/js/3.478c6b4a.chunk.js",
+    "static/js/3.478c6b4a.chunk.js.map": "/github.io/PetAdoptionMERN/static/js/3.478c6b4a.chunk.js.map",
+    "index.html": "/github.io/PetAdoptionMERN/index.html",
+    "static/css/main.a0275e6e.chunk.css.map": "/github.io/PetAdoptionMERN/static/css/main.a0275e6e.chunk.css.map",
+    "static/js/2.874b91df.chunk.js.LICENSE.txt": "/github.io/PetAdoptionMERN/static/js/2.874b91df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73c7f9b0.js",
+    "static/js/2.874b91df.chunk.js",
+    "static/css/main.a0275e6e.chunk.css",
+    "static/js/main.e108734d.chunk.js"
+  ]
+}
